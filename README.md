@@ -11,9 +11,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVkNTZtZzR0aGR3NnJxMXZzNWs5azN4bndiMW0zcGF0MTdtbTBvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGljd2lxd29mZXQ2a25wb2R5OGQwcGgzNm5sYWl1eWZpN2p3dHlkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200" />
 </p>
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldev23&theme=algolia" alt="danieldev23"  /></p>
 
 ## 🛠️ My Skills
 
