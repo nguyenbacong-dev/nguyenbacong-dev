@@ -99,7 +99,7 @@
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <!-- 📘 Facebook -->
-  <a href="https://www.facebook.com/100001055002.congg">
+  <a href="https://www.facebook.com/nguyenbacong.dev">
     <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/>
   </a>
   <!-- 📺 YouTube -->
