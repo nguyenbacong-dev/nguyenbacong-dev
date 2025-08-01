@@ -103,7 +103,7 @@
     <img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/>
   </a>
   <!-- 📺 YouTube -->
-  <a href="https://youtube.com/@yourchannel">
+  <a href="https://youtube.com/@motgocnhetenh?si=j-WHtuZzpYB_d0Eq">
     <img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/>
   </a>
 </p>
