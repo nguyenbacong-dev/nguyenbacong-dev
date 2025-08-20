@@ -14,7 +14,7 @@
 <hr/>
 
 <h4 align="center">
-  I am a beginner Fullstack Developer who enjoys coding, designing, and exploring new ideas.  
+  I am a Beginner Web Developer who enjoys coding, designing, and exploring new ideas.  
   I’m eager to learn, take on challenges, and improve my skills.  
   I enjoy meeting people, exchanging ideas, and sharing positivity.
 </h4>
