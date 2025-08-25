@@ -47,7 +47,6 @@ I love building projects, exploring new technologies, and connecting with like-m
   </tr>
 </table>
 
-
 ## 🛠️ Skills
 
 ### 🔹 Programming
