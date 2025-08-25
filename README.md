@@ -33,7 +33,8 @@ I love building projects, exploring new technologies, and connecting with like-m
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
+      <!-- Thay logo GitHub bằng điểm (grade) -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
@@ -45,6 +46,7 @@ I love building projects, exploring new technologies, and connecting with like-m
     </td>
   </tr>
 </table>
+
 
 ## 🛠️ Skills
 
