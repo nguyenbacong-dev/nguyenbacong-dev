@@ -30,18 +30,21 @@ I love building projects, exploring new technologies, and connecting with like-m
 ---
 
 ## 📈 GitHub Stats
-
-<!-- Hàng trên: 2 ô cân bằng -->
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nguyenbacong-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbacong-dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<!-- Hàng dưới: 1 ô full chiều ngang = 2 ô trên -->
-<p align="center">
-  <img width="740" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight" alt="Profile Details"/>
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Skills
 
