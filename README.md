@@ -18,28 +18,6 @@ I love building projects, exploring new technologies, and connecting with like-m
 
 ---
 
-## 📂 Featured Projects (Cards)
-
-<p align="center">
-  <a href="https://github.com/nguyenbacong-dev/Owen-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenbacong-dev&repo=Owen-Store&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/nguyenbacong-dev/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenbacong-dev&repo=portfolio&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nguyenbacong-dev/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenbacong-dev&repo=weather-app&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/nguyenbacong-dev/slide-templates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenbacong-dev&repo=slide-templates&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 📊 Projects Overview (Table)
 
 | Project | Description | Tech Stack |
@@ -48,6 +26,19 @@ I love building projects, exploring new technologies, and connecting with like-m
 | [🛍 Owen Store](https://github.com/nguyenbacong-dev/Owen-Store) | E-commerce website with login, product management | Java, JavaFX, MySQL |
 | [☁ Weather App](https://github.com/nguyenbacong-dev/weather-app) | Simple weather application fetching real-time data | HTML, CSS, JS, OpenWeather API |
 | [📊 Slide Templates](https://github.com/nguyenbacong-dev/slide-templates) | Collection of custom presentation slide templates | HTML, CSS, JS |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenbacong-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbacong-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight" alt="Profile Details"/>
+</p>
 
 ---
 
