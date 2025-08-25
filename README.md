@@ -33,18 +33,19 @@ I love building projects, exploring new technologies, and connecting with like-m
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nguyenbacong-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nguyenbacong-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbacong-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbacong-dev&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight" alt="Profile Details" width="800"/>
     </td>
   </tr>
 </table>
+
 
 ## 🛠️ Skills
 
