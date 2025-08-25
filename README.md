@@ -41,7 +41,7 @@ I love building projects, exploring new technologies, and connecting with like-m
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight" alt="Profile Details" width="8000"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight" alt="Profile Details" width="800"/>
     </td>
   </tr>
 </table>
