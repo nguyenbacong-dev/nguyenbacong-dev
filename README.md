@@ -33,7 +33,7 @@ I love building projects, exploring new technologies, and connecting with like-m
 <!-- Hàng trên: 2 ô cân bằng -->
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=nguyenbacong-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbacong-dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbacong-dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <!-- Hàng dưới: 1 ô full chiều ngang = 2 ô trên -->
