@@ -36,7 +36,7 @@ I love building projects, exploring new technologies, and connecting with like-m
       <img src="https://github-readme-stats.vercel.app/api?username=nguyenbacong-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbacong-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
     </td>
   </tr>
   <tr>
