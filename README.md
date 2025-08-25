@@ -31,15 +31,15 @@ I love building projects, exploring new technologies, and connecting with like-m
 
 ## 📈 GitHub Stats
 
+<!-- Hàng trên: 2 ô cân bằng -->
 <p align="center">
-  <!-- Hàng trên: 2 ô -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenbacong-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbacong-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenbacong-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbacong-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
+<!-- Hàng dưới: 1 ô full ngang -->
 <p align="center">
-  <!-- Hàng dưới: 1 ô ngang -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight" alt="Profile Details" width="95%"/>
 </p>
 
 ## 🛠️ Skills
