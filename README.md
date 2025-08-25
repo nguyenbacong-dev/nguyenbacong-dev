@@ -33,15 +33,20 @@ I love building projects, exploring new technologies, and connecting with like-m
 <table>
   <tr>
     <td>
-      <!-- Thay logo GitHub bằng điểm (grade) -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
+      <!-- Stats + Grade chung 1 ô -->
+      <div align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
+      </div>
     </td>
     <td>
+      <!-- Most used language -->
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenbacong-dev&theme=tokyonight" height="200"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
+      <!-- Profile details -->
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenbacong-dev&theme=tokyonight"/>
     </td>
   </tr>
