@@ -24,8 +24,6 @@ I love building projects, exploring new technologies, and connecting with like-m
 |---------|-------------|------------|
 | [🌐 Portfolio Website](https://github.com/nguyenbacong-dev/portfolio-main) | Personal portfolio to showcase my skills and projects | HTML, CSS, JavaScript, TailwindCSS |
 | [🛍 Owen Store](https://github.com/nguyenbacong-dev/Owen-Store) | E-commerce website with login, product management | Java, JavaFX, MySQL |
-| [☁ Weather App](https://github.com/nguyenbacong-dev/weather-app) | Simple weather application fetching real-time data | HTML, CSS, JS, OpenWeather API |
-| [📊 Slide Templates](https://github.com/nguyenbacong-dev/slide-templates) | Collection of custom presentation slide templates | HTML, CSS, JS |
 
 ---
 
