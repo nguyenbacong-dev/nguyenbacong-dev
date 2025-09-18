@@ -72,7 +72,5 @@
   <i>“Keep learning, keep building, keep growing.”</i>
 </p>
 
----
-
 - 📌 Credit: [nguyenbacong-dev](https://github.com/nguyenbacong-dev)  
 - 🗓 Last Edited on: 01/08/2025
